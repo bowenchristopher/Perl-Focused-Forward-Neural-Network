@@ -4,7 +4,7 @@ Coworking should focus on
 
 # Perl-Focused-Forward-Neural-Network
 
-This is a toy for those Interested in the basics of Machine Learning Python.
+This is a toy for those Interested in the basics of Machine Learning but not Python.
 
 # Usage
 Want to learn about Gradient Decent, Dot Product Calculations, Linear Algebra, and Neural Networks this is not the way
